@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Angular.js
 - 🌱 I’m currently learning React.js and Angular
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about My Projects
-- 📫 How to reach me: Email:- priyajitmondalp01@gmail.com
+<!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m looking for help to gain knowledge
+- 💬 Ask me about :- My Projects
+- 📫 How to reach me 📧priyajitmondalp01@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
