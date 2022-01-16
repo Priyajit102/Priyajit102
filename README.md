@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Priyajit102/Priyajit102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Priyajit102/Priyajit102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+Here are some ideas about Myself:
 
 - 🔭 I’m currently working on Angular.js
 - 🌱 I’m currently learning React.js and Angular
