@@ -14,7 +14,7 @@ Here are some ideas about Myself:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/-REACT-61DAFB?logo=React&logoColor=fff"> <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node&logoColor=fff"> <img src="https://img.shields.io/badge/-MongoDb-47A248?logo=Mongodb&logoColor=fff">
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/-REACT-61DAFB?logo=React&logoColor=fff"> <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node&logoColor=fff"> <img src="https://img.shields.io/badge/-MongoDb-47A248?logo=Mongodb&logoColor=fff"> <img src="https://img.shields.io/badge/-ANGULAR-339933?logo=Node&logoColor=fff">
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Priyajit102&count_private=true&show_icons=true&theme=radical)
