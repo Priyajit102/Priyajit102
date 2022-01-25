@@ -20,3 +20,5 @@ Here are some ideas about Myself:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Priyajit102&count_private=true&show_icons=true&theme=radical)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAJIT102&show_icons=true&theme=radical)
+
+<img src="https://raw.githubusercontent.com/Priyajit102/Priyajit102/master/<GIF_NAME>.gif" width="30px">
