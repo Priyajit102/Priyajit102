@@ -21,4 +21,4 @@ Here are some ideas about Myself:
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAJIT102&show_icons=true&theme=radical)
 
-<img src="https://raw.githubusercontent.com/Priyajit102/Priyajit102/master/<GIF_NAME>.gif" width="30px">
+
